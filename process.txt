@@ -1,0 +1,8 @@
+problem statment :
+
+based on airline data have to predict price for the passanger
+
+step i follow:::
+1.read xlsx file format
+
+
